@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## (:
+## Hi there 👋
 
 - 💪 Mastering C#
 - 🌱 Learning web technologies
