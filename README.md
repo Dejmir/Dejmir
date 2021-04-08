@@ -21,6 +21,11 @@
 <img align="left" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
 <br />
+<!--<br />-->
+
+### Contact:
+<img align="left" width="35px" height="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png" />*DanieL#1003*
+
 <br />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dejmir&count_private=true&show_icons=true&theme=radical" />
