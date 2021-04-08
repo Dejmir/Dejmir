@@ -25,5 +25,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dejmir&count_private=true&show_icons=true&theme=radical" />
 
+<br />
+<br />
+
 ## Contact:
 <img align="left" width="35px" height="35px" src="https://avatars.githubusercontent.com/u/1965106?s=40&v=4" /> <span style="color: red"><b>DanieL#1003</span>
