@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 💪 Mastering C#
-- 🌱 Learning web technologies
+- 💪 C# is my power
 
 <br />
 
